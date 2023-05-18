@@ -1,0 +1,19 @@
+header {
+    background-color: var(--bs-primary);
+    color: var(--bs-white);
+}
+
+.user-icon, .page-title {
+    padding: .5rem;
+}
+
+.page-title h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+
+.user-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
